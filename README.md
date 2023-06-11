@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=bukxy&style=flat-square)
 
-![Top Langs](https://github-readme-stats-2bsf.vercel.app/api/top-langs/?username=bukxy&layout=compact)
+![Top Langs](https://github-readme-stats-2bsf.vercel.app/api/top-langs/?username=bukxy&layout=compact&theme=vision-friendly-dark)
 
 ---
 
