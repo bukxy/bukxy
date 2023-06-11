@@ -2,6 +2,9 @@
 
 ![Top Langs](https://github-readme-stats-2bsf.vercel.app/api/top-langs/?username=bukxy&layout=compact)
 
+[![Anurag's GitHub stats](https://github-readme-stats-2bsf.vercel.app/api?username=bukxy)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **bukxy/bukxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
