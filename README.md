@@ -3,6 +3,7 @@
 
 ![Top Langs](https://github-readme-stats-2bsf.vercel.app/api/top-langs/?username=bukxy&layout=compact)
 
+---
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
