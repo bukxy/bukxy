@@ -1,4 +1,4 @@
-### Hi there 👋
+### Yop, 👋
 ![](https://komarev.com/ghpvc/?username=bukxy&style=flat-square)
 
 ![Top Langs](https://github-readme-stats-2bsf.vercel.app/api/top-langs/?username=bukxy&layout=compact&theme=vision-friendly-dark)
@@ -20,6 +20,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJS" **alt="NextJS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" **alt="PHP" width="40" height="40"/>
 </div>
+
+(some infos are comming in few days, maybe...)
 
 <!--
 **bukxy/bukxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
