@@ -21,8 +21,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" **alt="PHP" width="40" height="40"/>
 </div>
 
-(some infos are comming in few days, maybe...)
-
 <!--
 **bukxy/bukxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
